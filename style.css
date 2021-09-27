@@ -1,0 +1,17 @@
+.container{
+    padding-top: 20px;
+}
+
+#image img{
+    width: 100%;
+}
+
+#about-us{
+    padding: 50px;
+    top: 0;
+    bottom: 0;
+}
+
+#img-slide img{
+    width: 100%;
+}
